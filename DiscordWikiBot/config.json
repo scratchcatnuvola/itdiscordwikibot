@@ -1,0 +1,7 @@
+{
+	"userAgent": "DiscordWikiBot/{version} (https://w.wiki/4nm) (user:stjn)",
+	"repo":  "<https://github.com/stjohann/DiscordWikiBot> (C# / MIT)",
+	"domain": "it.wikipedia.org",
+	"lang": "it",
+	"wiki": "https://it.wikipedia.org/wiki/$1"
+}
